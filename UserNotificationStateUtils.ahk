@@ -8,7 +8,7 @@
 ;==============================================================
 class VersionManager_UserNotificationStateUtils
 {
-    _ := VersionManager_UserNotificationStateUtils._init()
+    static _ := VersionManager_UserNotificationStateUtils._init()
     _init()    {
         global
         USERNOTIFICATIONSTATEUTILS_VERSION := "1.0.0"
