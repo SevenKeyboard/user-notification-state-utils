@@ -1,2 +1,2 @@
 # user-notification-state-utils
-ryUserNotificationState wrapper + enum name helper.
+SHQueryUserNotificationState wrapper + enum name helper.
